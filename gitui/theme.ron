@@ -1,0 +1,5 @@
+(
+    selection_bg: Some(Rgb(66, 80, 71)),
+    cmdbar_bg: Some(Rgb(58, 81, 93)),
+    disabled_fg: Some(Rgb(157, 169, 160)),
+)
